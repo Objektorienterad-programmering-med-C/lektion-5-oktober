@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Handelsakademin\\BED26GB\\Objektorienterad programmering med C#\\Lektionsrepon\\lektion-5-oktober\\InheritanceExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C92D9E44-949E-4466-82B7-022EA847C25E}|InheritanceExample\\InheritanceExample.csproj|c:\\users\\christofferwallenber\\documents\\zocom\\handelsakademin\\bed26gb\\objektorienterad programmering med c#\\lektionsrepon\\lektion-5-oktober\\inheritanceexample\\inheritanceexample\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92D9E44-949E-4466-82B7-022EA847C25E}|InheritanceExample\\InheritanceExample.csproj|solutionrelative:inheritanceexample\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92D9E44-949E-4466-82B7-022EA847C25E}|InheritanceExample\\InheritanceExample.csproj|c:\\users\\christofferwallenber\\documents\\zocom\\handelsakademin\\bed26gb\\objektorienterad programmering med c#\\lektionsrepon\\lektion-5-oktober\\inheritanceexample\\inheritanceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92D9E44-949E-4466-82B7-022EA847C25E}|InheritanceExample\\InheritanceExample.csproj|solutionrelative:inheritanceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92D9E44-949E-4466-82B7-022EA847C25E}|InheritanceExample\\InheritanceExample.csproj|c:\\users\\christofferwallenber\\documents\\zocom\\handelsakademin\\bed26gb\\objektorienterad programmering med c#\\lektionsrepon\\lektion-5-oktober\\inheritanceexample\\inheritanceexample\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92D9E44-949E-4466-82B7-022EA847C25E}|InheritanceExample\\InheritanceExample.csproj|solutionrelative:inheritanceexample\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92D9E44-949E-4466-82B7-022EA847C25E}|InheritanceExample\\InheritanceExample.csproj|c:\\users\\christofferwallenber\\documents\\zocom\\handelsakademin\\bed26gb\\objektorienterad programmering med c#\\lektionsrepon\\lektion-5-oktober\\inheritanceexample\\inheritanceexample\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92D9E44-949E-4466-82B7-022EA847C25E}|InheritanceExample\\InheritanceExample.csproj|solutionrelative:inheritanceexample\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Handelsakademin\\BED26GB\\Objektorienterad programmering med C#\\Lektionsrepon\\lektion-5-oktober\\InheritanceExample\\InheritanceExample\\Student.cs",
+              "RelativeDocumentMoniker": "InheritanceExample\\Student.cs",
+              "ToolTip": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Handelsakademin\\BED26GB\\Objektorienterad programmering med C#\\Lektionsrepon\\lektion-5-oktober\\InheritanceExample\\InheritanceExample\\Student.cs",
+              "RelativeToolTip": "InheritanceExample\\Student.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T09:18:10.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Handelsakademin\\BED26GB\\Objektorienterad programmering med C#\\Lektionsrepon\\lektion-5-oktober\\InheritanceExample\\InheritanceExample\\Teacher.cs",
+              "RelativeDocumentMoniker": "InheritanceExample\\Teacher.cs",
+              "ToolTip": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Handelsakademin\\BED26GB\\Objektorienterad programmering med C#\\Lektionsrepon\\lektion-5-oktober\\InheritanceExample\\InheritanceExample\\Teacher.cs",
+              "RelativeToolTip": "InheritanceExample\\Teacher.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T09:13:15.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Handelsakademin\\BED26GB\\Objektorienterad programmering med C#\\Lektionsrepon\\lektion-5-oktober\\InheritanceExample\\InheritanceExample\\User.cs",
+              "RelativeDocumentMoniker": "InheritanceExample\\User.cs",
+              "ToolTip": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Handelsakademin\\BED26GB\\Objektorienterad programmering med C#\\Lektionsrepon\\lektion-5-oktober\\InheritanceExample\\InheritanceExample\\User.cs",
+              "RelativeToolTip": "InheritanceExample\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T09:10:54.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Handelsakademin\\BED26GB\\Objektorienterad programmering med C#\\Lektionsrepon\\lektion-5-oktober\\InheritanceExample\\InheritanceExample\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceExample\\Program.cs",
+              "ToolTip": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Handelsakademin\\BED26GB\\Objektorienterad programmering med C#\\Lektionsrepon\\lektion-5-oktober\\InheritanceExample\\InheritanceExample\\Program.cs",
+              "RelativeToolTip": "InheritanceExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T09:08:48.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
